@@ -28,10 +28,3 @@ A **content-based recommender system** built with Python that suggests YouTube v
 4. Return the top recommended videos.  
 
 ---
-
-## 📈 Future Improvements  
-- Add collaborative filtering for personalized recommendations  
-- Build a web app with Flask or Streamlit  
-- Explore deep learning-based embeddings for improved results  
-
----
