@@ -35,5 +35,3 @@ A **content-based recommender system** built with Python that suggests YouTube v
 - Explore deep learning-based embeddings for improved results  
 
 ---
-
-## 📂 Project Structure  
